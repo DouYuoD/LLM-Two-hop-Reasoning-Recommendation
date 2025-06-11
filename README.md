@@ -4,7 +4,7 @@ Enhancing Serendipity Recommendation System by ConstructingDynamic User Knowledg
 # A reasoning example for detail
 | **Field**         | **Value** |
 |-------------------|----------|
-| **user_id**       | 1254591581 |
+| **user_id**       | xxx |
 | **age**           | 31 |
 | **gender**        | Male |
 | **search_query**  | {"Strong Wind 2 pro":1} |
