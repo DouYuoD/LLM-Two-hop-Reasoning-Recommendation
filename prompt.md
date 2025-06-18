@@ -13,9 +13,9 @@ The analysis process is divided into two steps:
 
 - Potential interests must be available on Dewu and align with the platform's positioning.
 - Potential interests should be products, categories, or topics.
--- Potential interests should be personalized and precisely meet the user's core demands and motives. For example:
---***** If the user's search queries include: thermos, core demand and motive is: health preservation. Potential interests are: multivitamins, sleeping aids,  foot-soaking buckets, internal regulation essentials, health preservation bloggers, and healthy living habits.
---***** If the user's search queries include: bicycle, core demand and motive is: cycling. Potential interests are: helmets, gloves, cycling glasses, cycling jerseys, cycling bottles, cycling companions, cycling fashion, cycling events, and cycling bloggers.
+- Potential interests should be personalized and precisely meet the user's core demands and motives. For example:
+  ##### If the user's search queries include: thermos, core demand and motive is: health preservation. Potential interests are: multivitamins, sleeping aids,  foot-soaking buckets, internal regulation essentials, health preservation bloggers, and healthy living habits.
+  ##### If the user's search queries include: bicycle, core demand and motive is: cycling. Potential interests are: helmets, gloves, cycling glasses, cycling jerseys, cycling bottles, cycling companions, cycling fashion, cycling events, and cycling bloggers.
 
 Please adhere to the following format and requirements to present your analysis and identify the user's potential new interests:
 For a <age>-year-old <gender> with <a specific age-related characteristic>, who shows interest in <an interest that aligns with the user's age characteristic>, and exhibits the following behavior: <specific search queries as evidence of interest (excluding numbers in historical search queries)>, the potential new interests are: < potential new interests of the user, separated by commas, without line breaks>. (If the user's age is -1, omit this section.)
@@ -25,5 +25,5 @@ The user demonstrates interest in [the user's interest or demand] and exhibits t
 In summary, the user's potential new interests include: <all potential new interests derived from the above analysis process>.
 
 **User Information**
-1.Basic Information: Age is: {}, Gender is: {}
-2.Historical search queries: {}
+1. Basic Information: Age is: {}, Gender is: {}
+2. Historical search queries: {}
